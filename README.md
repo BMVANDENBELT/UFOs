@@ -15,4 +15,4 @@
 # SUMMARY
 - From testing the filters, I found that one of the biggest drawbacks for our filters was that it is case-sensitive. When I first searched the city of "Bonita", nothing came up. When I dropped the "B" to a lowercase "b", the results for that city showed up in the data-set below. (See below)
 <img width="672" alt="Drawback" src="https://user-images.githubusercontent.com/107223178/187091356-c6531095-6f00-4a70-8fc9-1016da6d9542.png">
-One reccommendation I would make for this in the future is that it would be super helpful to have 
+One reccommendation I would make for this in the future is that it would be super helpful to make the filters not case sensitive and also by typing the full state name out. While this may seem trivial, some people may make the mistake of typing in the wrong state abbreviation ultimately leading to a longer search time. Thus, cleaning it up a bit and (making the parameters larger) would provided a stronger field to search from. 
